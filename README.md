@@ -60,14 +60,6 @@ L’application suit l’architecture MVC (Modèle-Vue-Contrôleur) de Symfony a
 
 Accédez à l’application sur : http://127.0.0.1:8000
 
-✅ Compte démo
-Rôle	Identifiants
-Admin	admin@emusic.fr / admin123
-Professeur	prof@emusic.fr / prof123
-Élève/Parent	eleve@emusic.fr / eleve123
-
-Les comptes sont préremplis avec des données fictives pour test.
-
 🧠 Défis rencontrés
 Modélisation des entités relationnelles : gestion des dépendances complexes entre cours, instruments, professeurs et élèves → utilisation optimale de Doctrine
 
