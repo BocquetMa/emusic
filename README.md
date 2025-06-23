@@ -48,14 +48,15 @@ L’application suit l’architecture MVC (Modèle-Vue-Contrôleur) de Symfony a
 
 ### Étapes
 
-git clone https://github.com/BocquetMa/emusic.git
-cd emusic
-composer install
-cp .env .env.local
+- git clone https://github.com/BocquetMa/emusic.git
+- cd emusic
+- composer install
+- cp .env .env.local
+- 
 # Modifier .env.local avec vos informations MySQL
-php bin/console doctrine:database:create
-php bin/console doctrine:migrations:migrate
-symfony serve
+- php bin/console doctrine:database:create
+- php bin/console doctrine:migrations:migrate
+- symfony serve
 
 Accédez à l’application sur : http://127.0.0.1:8000
 
