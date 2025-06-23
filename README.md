@@ -66,3 +66,11 @@ Modélisation des entités relationnelles : gestion des dépendances complexes e
 Tarification variable : calculs dynamiques selon le quotient familial et le type de cours → système flexible configurable par les admins
 
 Gestion multi-rôles : affichage conditionnel des interfaces et sécurisation des accès selon les permissions
+
+📄 Licence
+Projet réalisé dans un cadre pédagogique.
+2025 Bocquet Mathéo
+
+Pour toute question, n'hésitez pas à me contacter :
+matheo.bocquet@outlook.fr
+https://bocquetma.github.io/portfolio/html/projet/emusic.html
