@@ -52,7 +52,7 @@ L’application suit l’architecture MVC (Modèle-Vue-Contrôleur) de Symfony a
 - cd emusic
 - composer install
 - cp .env .env.local
-- 
+
 # Modifier .env.local avec vos informations MySQL
 - php bin/console doctrine:database:create
 - php bin/console doctrine:migrations:migrate
